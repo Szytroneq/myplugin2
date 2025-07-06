@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FSNWRxlRrnA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebek\\source\\repos\\myplugin\\myplugin\\myplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebek\\.nuget\\packages\\exiled\\8.9.11\\exiled.8.9.11.nupkg.sha512"
+  ],
+  "logs": []
+}
